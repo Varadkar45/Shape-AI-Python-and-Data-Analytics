@@ -1,2 +1,2 @@
 # Project made for Shape-AI-Python-and-Data-Analytics
-This project is based on Data Analysis which is performed on a specific Titanic Dataset
+This project is based on Data Analysis which is performed on a specific Titanic Dataset using Pandas and NumPy Packages
